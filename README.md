@@ -1,44 +1,57 @@
-<p align="center">
-  <img src="assets/logo.png" width="120" alt="Build3rDAO Logo"/>
+# 👋 Welcome to Build3rDAO  
+
+### 🚀 Bridging Web2 & Web3 | Decentralized Innovation Hub  
+
+**🌍 Mission:** Empowering developers, traders, and communities to build in Web3 through open-source tools, decentralized applications, and knowledge-sharing.  
+
+---
+
+## 🛠️ Tech & Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-EF682A?style=for-the-badge&logo=web3.js&logoColor=white" />
 </p>
 
-<h1 align="center">Build3rDAO</h1>
-<h3 align="center">🚀 Building trustless systems, one block at a time</h3>
+---
+
+## 📌 Featured Projects  
+🔹 [**YUKASTOPUP**](#) – VTU platform (airtime, data, cable, utilities)  
+🔹 [**Gas4Token**](#) – Crypto Gas Fee Payment Dashboard  
+🔹 [**Build3rDAO**](#) – Community-driven Web3 Initiative  
 
 ---
 
-### 👋 About Us
-**Build3rDAO** is a collective at the intersection of **development** and **decentralized governance**.  
-We bring together builders and communities to:
-- Craft **trustless Web3 applications**  
-- Develop & audit **smart contracts**  
-- Experiment with **DAO-driven innovation**  
-- Push the limits of **open-source collaboration**  
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Build3rDAO&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Build3rDAO&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
 
-🌍 Our mission: Empower developers + DAOs to co-create the **future of the internet**.
-
----
-
-### 🛠️ Tech & Tools
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Hardhat](https://img.shields.io/badge/Hardhat-FCFF52?style=for-the-badge&logo=hardhat)
-![IPFS](https://img.shields.io/badge/IPFS-0A1B2A?style=for-the-badge&logo=ipfs)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Build3rDAO&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-### 📂 Featured Projects
-- 🔗 **[Smart Contract Templates](#)** – Reusable contracts for DAOs & dApps  
-- 🌐 **[Decentralized App Starter Kit](#)** – Boilerplate for Web3 developers  
-- 🛡 **[Security & Auditing Tools](#)** – Resources for safer code  
+## 📈 Current Focus  
+- Developing **trustless decentralized systems**  
+- Researching **DeFi arbitrage & liquidity flows**  
+- Building **open-source Web3 tools**  
+- Educating on **SMC Trading Concepts**  
 
 ---
 
-### 🌍 Connect
-- 🐦 Twitter: [@Build3rDAO](https://twitter.com/Build3rDAO)  
-- 💻 GitHub: [Build3rDAO](https://github.com/Build3rDAO)  
-- 🌐 Website: *coming soon...*  
+## 🤝 Connect with Build3rDAO  
+📧 Email: **yuseefkassim453p@gmail.com**  
+💼 LinkedIn: [Add your link here]  
+🐦 Twitter (X): [Add your link here]  
+🌐 Website: [Coming Soon]  
 
 ---
+
+✨ *“Code, trade, and build the decentralized future.”* ✨  
